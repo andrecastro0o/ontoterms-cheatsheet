@@ -5,6 +5,11 @@ Namespace: http://www.w3.org/2004/02/skos/core#
 
 RDF: http://www.w3.org/TR/skos-reference/skos.rdf
 
+Resources:
+* https://www.w3.org/2009/08/skos-reference/skos.html.
+* CMCCONNELL. “SKOS: A Guide for Information Professionals.”  Association for Library Collections & Technical Services (ALCTS), May 18, 2015. https://www.ala.org/alcts/resources/z687/skos.
+
+
 ## Classes:
 
 ### [skos:Concept](https://www.w3.org/TR/skos-reference/#Concept)
